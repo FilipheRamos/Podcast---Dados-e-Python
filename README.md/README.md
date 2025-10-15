@@ -1,5 +1,5 @@
 <p aling="center">
-    <img src="./assets\Banner.png" width="250" alt="Logo do Projeto">
+    <img src="./README.mdassets\Banner.png" width="250" alt="Logo do Projeto">
 </p>
 
 
