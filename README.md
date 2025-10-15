@@ -35,4 +35,6 @@ Projeto com o objetivo de desenvolver um podcast utilizando IAs por meio de prom
         </td>
     </tr>
 </table>
-    
+
+---------------------------------------------------------------
+By [Filipe Ramos](https://github.com/FilipheRamos)
