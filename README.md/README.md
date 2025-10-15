@@ -1,5 +1,5 @@
 <p aling="center">
-    <img src="C:\Users\Filipe\OneDrive\Documentos\GitHubInicio\PodCast\assets\Capa r.png" width="250" alt="Logo do Projeto">
+    <img src="assets\Banner.png" width="250" alt="Logo do Projeto">
 </p>
 
 
