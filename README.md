@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
     <img src="./assets\Banner.png" width="500" alt="Logo do Projeto">
 </p>
 
