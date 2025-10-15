@@ -27,7 +27,7 @@ Projeto com o objetivo de desenvolver um podcast utilizando IAs por meio de prom
 <tabel>
     <tr>
         <td valign="top">
-          <img src="https://avatars.githubusercontent.com/u/158492555?s=400&u=191bccf3c511b94af429b0c15c527e36abf73b34&v=4" alt="Foto de Perfil" whith="50">
+          <img src="https://avatars.githubusercontent.com/u/158492555?s=40&u=191bccf3c511b94af429b0c15c527e36abf73b34&v=4" alt="Foto de Perfil" whith="50">
         </td>
         <td valign="top">
            <h1>Filipe Ramos</h1>
