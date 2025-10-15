@@ -1,3 +1,8 @@
+<p aling="center">
+    <img src="C:\Users\Filipe\OneDrive\Documentos\GitHubInicio\PodCast\assets\Capa r.png" width="250" alt="Logo do Projeto">
+</p>
+
+
 **Projeto de Podcast Gerado por I.A.s**
 -----------------------------------------------------
 Projeto com o objetivo de desenvolver um podcast utilizando IAs por meio de prompts mais trabalhados, como parte do curso da DIO.
