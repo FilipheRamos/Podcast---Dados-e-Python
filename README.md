@@ -21,4 +21,4 @@ Projeto com o objetivo de desenvolver um podcast utilizando IAs por meio de prom
 
 **Materiais de apoio**
 - [Notion Templete](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)
-- DIO 
+- [DIO](https://www.dio.me/) 
