@@ -11,13 +11,13 @@ Projeto com o objetivo de desenvolver um podcast utilizando IAs por meio de prom
 - [ChatGPT](https://chatgpt.com/)
 - [Gemini](https://gemini.google.com/app)
 - [ELevenLabs](https://elevenlabs.io/)
-- 
+- [CapCut](https://www.capcut.com/my-edit?from_page=landing_page&start_tab=video)
 
 **Como foi criado?**
 - Roteiro gerado via chatGPT
 - Áudio gerado pelo ElevenLabs
 - Imagem gerada pelo Gemini
-- 
+- Edição do áudio no CapCut
 
 **Materiais de apoio**
 - [Notion Templete](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)
